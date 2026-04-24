@@ -14,4 +14,4 @@ MinorMint is an intelligent financial agent that acts as a "Social Guardian" for
 * `guardian.py`: AI Safety and Social Reasoning logic.
 * `integration.py`: Circle Wallet and Vault connectivity.
 * `requirements.txt`: Project dependencies.
-* 
+  
